@@ -35,8 +35,8 @@ const Ul = styled.ul<UlProps>`
   @media (max-width: 554px) {
     display: ${({ $isOpen }) => ($isOpen ? "flex" : "none")};
     position: absolute;
-    top: 165px;  /* Ajuste de la posición vertical */
-    left: 50%;
+    top: 20px;  /* Ajuste de la posición vertical */
+    left: 120px;
     transform: translateX(-50%);  /* Centrado horizontal */
     background-color: #11417b2f;
     width: 200px;
@@ -60,7 +60,7 @@ const StyledLink = styled(Link)`
   height: 50px;
   border: 2px solid transparent;
   border-radius: 20px;
-  background-color: #ca7610;
+  background-color: #076c2f;
   color: #ffffff;
   transition: all 0.3s ease;
 

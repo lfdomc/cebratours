@@ -16,8 +16,8 @@ const HeaderStyle = styled.header`
   background-color: #ca7610;
 
   @media (max-width: 768px) {
-    flex-direction: column;
-    align-items: center;
+    flex-direction: row;
+    
     justify-content: center;
     gap: 1px;
   }
@@ -74,6 +74,21 @@ const MenuHeaderContainer = styled.div`
   display: flex;
   justify-content: center;
   width: 100%;
+  @media (max-width: 427px) {
+    display: none;
+    }
+  
+`;
+const MenuHeaderContainer2 = styled.div`
+  display: none;
+  justify-content: start;
+  position: absolute; /* Posicionamiento absoluto */
+  top: 0; /* Arriba */
+  left: 0; /* Izquierda */
+  z-index: 1001; /* Asegurarse de que esté por encima del header */
+
+  @media (max-width: 427px) {
+    display: flex;}
 `;
 
 const Header = () => {
@@ -82,17 +97,20 @@ const Header = () => {
   return (
     <HeaderStyle theme={{ colorprimary }}>
       {/* Contenedor del logo y título */}
+      <MenuHeaderContainer2>
+        <MenuHeader />
+      </MenuHeaderContainer2>
       <Link to="/">
         <LogoSection>
           <img src={logo} alt="Logo" />
           <H1>CEBRA TOURS</H1>
         </LogoSection>
       </Link>
-
-      {/* Contenedor del menú centrado */}
       <MenuHeaderContainer>
         <MenuHeader />
       </MenuHeaderContainer>
+      {/* Contenedor del menú centrado */}
+      
     </HeaderStyle>
   );
 };
