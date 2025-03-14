@@ -1,6 +1,5 @@
 import React from 'react';
 import 'dayschedule-widget/dist/dayschedule-popup.css';
-import 'dayschedule-widget/dist/dayschedule-widget.js';
 import styled from 'styled-components';
 
 // Declarar el tipo correcto para daySchedule
