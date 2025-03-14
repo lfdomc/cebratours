@@ -1,7 +1,5 @@
 import styled from "styled-components";
 import { Link } from "react-router-dom";
-import { useContext } from "react";
-import { GlobalContext } from "../../context/GlobalContext";
 
 const HeaderStyle = styled.header`
   padding-top: 10.5px;
@@ -94,7 +92,7 @@ const H3 = styled.h3`
 
 const Footer = () => {
 
-  const { logo } = useContext(GlobalContext);
+ 
   
   return (
     <HeaderStyle>

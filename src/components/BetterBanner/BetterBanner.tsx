@@ -220,7 +220,7 @@ interface BannerProps {
 
 const BetterBanner: React.FC<BannerProps> = ({
     image,
-    bimage,
+    
     title,
     text,
     text2,

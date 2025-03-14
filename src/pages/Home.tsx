@@ -2,7 +2,7 @@ import styled from "styled-components"
 import { useContext } from "react"
 import { GlobalContext } from "../context/GlobalContext"
 import BetterBanner from "../components/BetterBanner/BetterBanner"
-import Scroll1 from "../components/Scroll1/Scroll1";
+
 
 const Section = styled.section`
   display: flex;
