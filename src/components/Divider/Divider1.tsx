@@ -1,6 +1,6 @@
 import styled from "styled-components"
 import Card1 from "../Card1/Card1"
-import Scroll1 from "../Scroll1/Scroll1"
+
 
 const MainContainer = styled.section`
     display: flex;
@@ -41,7 +41,7 @@ const Divider1 = () => {
                 />
             </CardScrollContainer>
             <CardScrollContainer>
-                <Scroll1 />
+               
             </CardScrollContainer>
         </MainContainer>
     )
