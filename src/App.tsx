@@ -17,6 +17,13 @@ const IMG = styled.img`
   z-index: 9999;   // Asegura que esté encima de otros elementos
   width: 200px;     // Define un ancho (ajusta según necesites)
   height: auto;    // Mantiene la proporción de la imagen
+
+  @media (max-width: 427px) {
+    display: flex;}
+    width: 180px;
+    height: auto;
+
+
 `
 
 function App() {
