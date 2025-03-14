@@ -36,7 +36,7 @@ function App() {
             <IMG src="image/sloth.png" alt="Sloth Icon" />
             <WhatsApp
               imageSrc="/image/whatsapp.png"
-              onClick={() => window.location.href = "https://wa.me/50689280606"}
+              onClick={() => window.location.href = "https://wa.me/50689670500"}
             />
             
             <Header />
