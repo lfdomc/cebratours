@@ -2,6 +2,9 @@ import styled from "styled-components"
 import { useContext } from "react"
 import { GlobalContext } from "../context/GlobalContext"
 import BetterBanner from "../components/BetterBanner/BetterBanner"
+import Banner from "../components/Banner/Banner"
+import Divider2 from "../components/Divider/Divider2"
+import { FormContact } from "../components/FormContact/FormContact"
 
 
 const Section = styled.section`
@@ -11,7 +14,6 @@ const Section = styled.section`
   flex-wrap: wrap;
 
   @media (max-width: 450px) {
-    display: none;  // Oculta la sección en pantallas menores a 450px
   }
 `;
 
@@ -59,7 +61,12 @@ const Home = () => {
       
       {/*<Scroll1/>*/}
       <Section>
-        
+      <Banner image="/image/servicios.png" h1 ="OUR SERVICES" color="#1b6b03" fcolor="#f3f3f3"/>
+      <Divider2/>
+      </Section>
+      <Section>
+      <Banner image="/image/contacto.png" h1 ="FORM FOR YOUR QUERIES" color="#1b5e0f" fcolor="#f3f3f3"/>
+      <FormContact/>
       </Section>
     </div>
   )

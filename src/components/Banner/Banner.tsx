@@ -12,10 +12,12 @@ const H1 = styled.h1<{ $bgColor: string, $fColor: string }>`
 
   @media (max-width: 768px) {
     font-size: 1.2rem;
+    padding: 2px 2px;
   }
 
   @media (max-width: 480px) {
     font-size: 1rem;
+    padding: 2px 2px;
   }
 `;
 
@@ -34,6 +36,7 @@ const Banner1 = styled.div<{ $bgColor: string, $fColor: string }>`
     flex-direction: column;
     text-align: center;
     gap: 2px;
+    padding: 2px;
   }
 `;
 
@@ -45,11 +48,13 @@ padding: 10px;
   @media (max-width: 768px) {
     max-width: 60px;
     max-height: 80px;
+    padding: 2px;
   }
 
   @media (max-width: 480px) {
     max-width: 50px;
     max-height: 70px;
+    padding: 2px;
   }
 `;
 

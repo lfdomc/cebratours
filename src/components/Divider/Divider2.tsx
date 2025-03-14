@@ -20,7 +20,7 @@ const CardScrollContainer = styled.div`
     box-sizing: border-box; /* Incluye el padding y el borde en el cálculo del ancho */
 
     @media (max-width: 812px) {
-        max-width: 100%; /* En pantallas pequeñas, ocupa el 100% del ancho */
+        max-width: 95%; /* En pantallas pequeñas, ocupa el 100% del ancho */
     }
 `
 
