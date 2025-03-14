@@ -52,7 +52,7 @@ const StyledCard = styled(Card)`
   flex-direction: column;
   align-items: center;  
   justify-content: flex-start;  
-  min-height: 500px; 
+  min-height: 550px; 
   &:hover {
     transform: scale(1.02); 
     background-color: #f8f8ffca;
@@ -83,6 +83,7 @@ const Image = styled.img`
   margin: 0 auto;
   height: auto;
   transition: transform 0.3s ease-in-out; 
+  border-radius: 120px;
 
   &:hover {
     transform: scale(1.2); 

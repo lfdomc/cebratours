@@ -65,16 +65,18 @@ const Divider1 = () => {
             </CardScrollContainer>
             <CardScrollContainer>
             <Card1
-                    title="Integración de APIs"
-                    parraf="Conexión de sitios y aplicaciones con servicios externos mediante 
-                    APIs para agregar funcionalidades avanzadas como pagos, redes sociales y más."
+                    title="FULLDRIVER"
+                    parraf="Your need to move around as you please in the own schedule is our reason for being and that is why we 
+                    customize your excursions according to your needs, supported by our expert, We are from guanacaste and we want 
+                    to show you the true Costa Rican culture."
                     image="/image/api.png"
                 />
             </CardScrollContainer>
             <CardScrollContainer>
             <Card1
-                    title="Mantenimiento"
-                    parraf="Mantenimiento regular para asegurar que el sitio esté siempre actualizado y funcionando correctamente."
+                    title="ENDLESS POSSIBILITIES"
+                    parraf="If you're interested in improving your next trip with an exciting and engaging tour, look no further.
+                     Check out my current tours and feel free to contact any questions I have about what I offer."
                     image="/image/mant.png"
                 />
             </CardScrollContainer>
