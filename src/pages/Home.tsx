@@ -5,6 +5,7 @@ import BetterBanner from "../components/BetterBanner/BetterBanner"
 import Banner from "../components/Banner/Banner"
 import Divider2 from "../components/Divider/Divider2"
 import { FormContact } from "../components/FormContact/FormContact"
+import Tours from "./Tours"
 
 
 const Section = styled.section`
@@ -30,7 +31,7 @@ const Home = () => {
         bgmain=" #fafafa"
         bgimage=""
         //Imagen Props
-        image="/image/Kawasmy/19.jpg"
+        image="/image/ima/19.webp"
         //imonClick={() => window.location.href = "https://wa.me/50670453129"}
         //Titulo Props
         bimage="/image/logo.png"
@@ -65,6 +66,7 @@ const Home = () => {
       <Divider2/>
       </Section>
       <Section>
+      <Tours/>
       <Banner image="/image/contacto.png" h1 ="FORM FOR YOUR QUERIES" color="#1b5e0f" fcolor="#f3f3f3"/>
       <FormContact/>
       </Section>

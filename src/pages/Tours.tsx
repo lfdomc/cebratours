@@ -20,7 +20,7 @@ const Tours = () => {
         bgmain=" #fafafa"
         bgimage=""
         //Imagen Props
-        image="/image/Kawasmy/24.jpg"
+        image="/image/ima/24.webp"
         //imonClick={() => window.location.href = "https://wa.me/50670453129"}
         //Titulo Props
         bimage="/image/logo.png"
@@ -39,7 +39,7 @@ const Tours = () => {
         //btimage="/image/ktrina/calabera.png"
 
         //Button2 Props
-        btimage2="/image/Kawasmy/19.jpg"
+        btimage2="/image/ima/19.webp"
         bt2display="none"
         bt2Color="#2e0143"
         fb2tColor="white"
@@ -56,7 +56,7 @@ const Tours = () => {
         bgmain=" #049439"
         bgimage=""
         //Imagen Props
-        image="/image/Kawasmy/28.jpg"
+        image="/image/ima/28.webp"
         //imonClick={() => window.location.href = "https://wa.me/50670453129"}
         //Titulo Props
         bimage="/image/logo.png"
@@ -75,7 +75,7 @@ const Tours = () => {
         //btimage="/image/ktrina/calabera.png"
 
         //Button2 Props
-        btimage2="/image/Kawasmy/19.jpg"
+        btimage2="/image/ima/19.webp"
         bt2display="none"
         bt2Color="#2e0143"
         fb2tColor="white"
@@ -91,7 +91,7 @@ const Tours = () => {
         bgmain=" #fafafa"
         bgimage=""
         //Imagen Props
-        image="/image/Kawasmy/25.jpg"
+        image="/image/ima/25.webp"
         //imonClick={() => window.location.href = "https://wa.me/50670453129"}
         //Titulo Props
         bimage="/image/logo.png"
@@ -110,7 +110,7 @@ const Tours = () => {
         //btimage="/image/ktrina/calabera.png"
 
         //Button2 Props
-        btimage2="/image/Kawasmy/20.jpg"
+        btimage2="/image/ima/20.webp"
         bt2display="none"
         bt2Color="#2e0143"
         fb2tColor="white"
@@ -126,7 +126,7 @@ const Tours = () => {
         bgmain=" #049439"
         bgimage=""
         //Imagen Props
-        image="/image/Kawasmy/26.jpg"
+        image="/image/ima/26.webp"
         //imonClick={() => window.location.href = "https://wa.me/50670453129"}
         //Titulo Props
         bimage="/image/logo.png"
@@ -145,7 +145,7 @@ const Tours = () => {
         //btimage="/image/ktrina/calabera.png"
 
         //Button2 Props
-        btimage2="/image/Kawasmy/19.jpg"
+        btimage2="/image/ima/19.webp"
         bt2display="none"
         bt2Color="#2e0143"
         fb2tColor="white"
@@ -161,7 +161,7 @@ const Tours = () => {
         bgmain=" #fafafa"
         bgimage=""
         //Imagen Props
-        image="/image/Kawasmy/39.jpg"
+        image="/image/ima/39.webp"
         //imonClick={() => window.location.href = "https://wa.me/50670453129"}
         //Titulo Props
         bimage="/image/logo.png"
@@ -180,7 +180,7 @@ const Tours = () => {
         //btimage="/image/ktrina/calabera.png"
 
         //Button2 Props
-        btimage2="/image/Kawasmy/20.jpg"
+        btimage2="/image/ima/20.webp"
         bt2display="none"
         bt2Color="#2e0143"
         fb2tColor="white"
