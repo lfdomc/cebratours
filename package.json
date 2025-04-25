@@ -11,14 +11,19 @@
   },
   "dependencies": {
     "@emailjs/browser": "^4.4.1",
+    "@emotion/react": "^11.14.0",
+    "@emotion/styled": "^11.14.0",
+    "@mui/material": "^7.0.2",
+    "@mui/styled-engine-sc": "^7.0.2",
     "antd": "^5.23.3",
     "dayschedule-widget": "^1.2.3",
     "react": "^18.3.1",
     "react-dom": "^18.3.1",
+    "react-image-gallery": "^1.4.0",
     "react-slick": "^0.30.3",
     "react-toastify": "^11.0.3",
     "slick-carousel": "^1.8.1",
-    "styled-components": "^6.1.14"
+    "styled-components": "^6.1.17"
   },
   "devDependencies": {
     "@eslint/js": "^9.17.0",

@@ -21,7 +21,7 @@ const SectionA = styled.section`
 
 const Nav = styled.section`
   display: flex;
-  justify-content: end;
+  justify-content: start;
   align-items: center;
   width: 100%;
   background-color: transparent;

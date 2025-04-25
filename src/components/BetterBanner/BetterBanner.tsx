@@ -11,11 +11,14 @@ const MainSection = styled.section<{ $bgmain: string, $flexdirection: string, $b
     background-color: ${(props) => props.$bgmain};
     opacity: 0.9;
    
+
+
     align-items: center;
     justify-content: center;
     background-image: ${(props) => (props.$bgimage ? `url(${props.$bgimage})` : "none")};
     padding: 5px;
     
+
 
     @media (max-width: 768px) {
         flex-direction: column-reverse;
@@ -39,7 +42,7 @@ const SectionA = styled.section<{ $imgflexdirection?: string }>`
 
     img {
         max-width: 50%;
-        height: auto;
+        height: 50%;
         border-radius: 390px;
         padding-bottom: 20px;
     }

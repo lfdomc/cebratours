@@ -30,7 +30,7 @@ const Home = () => {
         bgmain=" #fafafa"
         bgimage=""
         //Imagen Props
-        image="/image/Kawasmy/imagen1.jpg"
+        image="/image/Kawasmy/19.jpg"
         //imonClick={() => window.location.href = "https://wa.me/50670453129"}
         //Titulo Props
         bimage="/image/logo.png"
