@@ -63,15 +63,7 @@ const Divider1 = () => {
                     image="/image/rediseno.png"
                 />
             </CardScrollContainer>
-            <CardScrollContainer>
-            <Card1
-                    title="FULLDRIVER"
-                    parraf="Your need to move around as you please in the own schedule is our reason for being and that is why we 
-                    customize your excursions according to your needs, supported by our expert, We are from guanacaste and we want 
-                    to show you the true Costa Rican culture."
-                    image="/image/api.png"
-                />
-            </CardScrollContainer>
+            
             <CardScrollContainer>
             <Card1
                     title="ENDLESS POSSIBILITIES"

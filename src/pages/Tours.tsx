@@ -20,14 +20,14 @@ const Tours = () => {
         bgmain=" #fafafa"
         bgimage=""
         //Imagen Props
-        image="/image/ima/24.webp"
+        image="/image/Kawasmy/24.jpg"
         //imonClick={() => window.location.href = "https://wa.me/50670453129"}
         //Titulo Props
         bimage="/image/logo.png"
         title="SLOTH FARM AND COFFEE TOUR"
         text="We will enjoy sloths and rainforest animals in their natural habitat, then we will enjoy a typical Costa Rican lunch cooked in firewood kitchen, ending with a guided coffee tour through a real plantation ending with the coffee and cocoa process until its packaging and distribution. "
         //Texto Props
-        text2="Everything needed Sunscreen, bugspray, tennis Shoes, Raincoat or jacket,camera  "
+        text2="Sunscreen, bugspray, tennis Shoes, Raincoat or jacket,camera  "
         text3="Half day tour, 4 hours plus transportation (depends on pick up place distance). Includes,  ground transportation, entrance fees, lunch, bottled water, bilingual guide, shopping stop Upala, bijagua"
         //Button1 Props
         textbutton="Visitar Página"
@@ -39,7 +39,7 @@ const Tours = () => {
         //btimage="/image/ktrina/calabera.png"
 
         //Button2 Props
-        btimage2="/image/ima/19.webp"
+        btimage2="/image/Kawasmy/19.jpg"
         bt2display="none"
         bt2Color="#2e0143"
         fb2tColor="white"
@@ -56,7 +56,7 @@ const Tours = () => {
         bgmain=" #049439"
         bgimage=""
         //Imagen Props
-        image="/image/ima/28.webp"
+        image="/image/Kawasmy/28.jpg"
         //imonClick={() => window.location.href = "https://wa.me/50670453129"}
         //Titulo Props
         bimage="/image/logo.png"
@@ -75,7 +75,7 @@ const Tours = () => {
         //btimage="/image/ktrina/calabera.png"
 
         //Button2 Props
-        btimage2="/image/ima/19.webp"
+        btimage2="/image/Kawasmy/19.jpg"
         bt2display="none"
         bt2Color="#2e0143"
         fb2tColor="white"
@@ -91,14 +91,14 @@ const Tours = () => {
         bgmain=" #fafafa"
         bgimage=""
         //Imagen Props
-        image="/image/ima/25.webp"
+        image="/image/Kawasmy/25.jpg"
         //imonClick={() => window.location.href = "https://wa.me/50670453129"}
         //Titulo Props
         bimage="/image/logo.png"
         title=" WILDLIFE WATCHING TOUR"
         text="If you would like to see animals in their natural habitat this is your opportunity, we will start with a guided boat tour through calm waters in the middle of the tropical dry forest Then we will enjoy a delicious typical Costa Rican lunch, we will drive 40 minutes where reptiles, mammals and birds of the tropical rainforest of Costa Rica await for you! "
         //Texto Props
-        text2="Everything needed Sunscreen, bugspray, tennis Shoes, wet shoes, Raincoat or jacket  ,camera "
+        text2="Sunscreen, bugspray, tennis Shoes, wet shoes, Raincoat or jacket  ,camera "
         text3=" Half day tour, 5.5 hours plus transportation (depends on pick up place distance ), ground transportation, entrance fees, lunch, bottled water, bilingual guide, shopping stop Guanacaste, cañas & Upala, bijagua "
         //Button1 Props
         textbutton="Visitar Página"
@@ -110,7 +110,7 @@ const Tours = () => {
         //btimage="/image/ktrina/calabera.png"
 
         //Button2 Props
-        btimage2="/image/ima/20.webp"
+        btimage2="/image/Kawasmy/20.jpg"
         bt2display="none"
         bt2Color="#2e0143"
         fb2tColor="white"
@@ -126,7 +126,7 @@ const Tours = () => {
         bgmain=" #049439"
         bgimage=""
         //Imagen Props
-        image="/image/ima/26.webp"
+        image="/image/Kawasmy/26.jpg"
         //imonClick={() => window.location.href = "https://wa.me/50670453129"}
         //Titulo Props
         bimage="/image/logo.png"
@@ -145,7 +145,7 @@ const Tours = () => {
         //btimage="/image/ktrina/calabera.png"
 
         //Button2 Props
-        btimage2="/image/ima/19.webp"
+        btimage2="/image/Kawasmy/19.jpg"
         bt2display="none"
         bt2Color="#2e0143"
         fb2tColor="white"
@@ -161,7 +161,7 @@ const Tours = () => {
         bgmain=" #fafafa"
         bgimage=""
         //Imagen Props
-        image="/image/ima/39.webp"
+        image="/image/Kawasmy/39.jpg"
         //imonClick={() => window.location.href = "https://wa.me/50670453129"}
         //Titulo Props
         bimage="/image/logo.png"
@@ -180,7 +180,7 @@ const Tours = () => {
         //btimage="/image/ktrina/calabera.png"
 
         //Button2 Props
-        btimage2="/image/ima/20.webp"
+        btimage2="/image/Kawasmy/20.jpg"
         bt2display="none"
         bt2Color="#2e0143"
         fb2tColor="white"

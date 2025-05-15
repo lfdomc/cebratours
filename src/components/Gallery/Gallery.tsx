@@ -81,27 +81,27 @@ export default function StandardImageList() {
 // Definir el tipo de itemData
 const itemData: { img: string; title: string }[] = [
   {
-    img: '/image/ima/24.webp',
+    img: '/image/Kawasmy/24.jpg',
     title: 'sloth',
   },
   {
-    img: '/image/ima/1.webp',
+    img: '/image/Kawasmy/1.jpg',
     title: 'Burger',
   },
   {
-    img: '/image/ima/2.webp',
+    img: '/image/Kawasmy/2.jpg',
     title: 'Camera',
   },
   {
-    img: '/image/ima/3.webp',
+    img: '/image/Kawasmy/3.jpg',
     title: 'Coffee',
   },
   {
-    img: '/image/ima/4.webp',
+    img: '/image/Kawasmy/4.jpg',
     title: 'Hats',
   },
   {
-    img: '/image/ima/5.webp',
+    img: '/image/Kawasmy/5.jpg',
     title: 'Honey',
   },
 ];
