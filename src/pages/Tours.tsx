@@ -20,7 +20,7 @@ const Tours = () => {
         bgmain=" #fafafa"
         bgimage=""
         //Imagen Props
-        image="/image/Kawasmy/24.jpg"
+        image="/image/ima/24.webp"
         //imonClick={() => window.location.href = "https://wa.me/50670453129"}
         //Titulo Props
         bimage="/image/logo.png"
@@ -56,7 +56,7 @@ const Tours = () => {
         bgmain=" #049439"
         bgimage=""
         //Imagen Props
-        image="/image/Kawasmy/28.jpg"
+        image="/image/ima/28.webp"
         //imonClick={() => window.location.href = "https://wa.me/50670453129"}
         //Titulo Props
         bimage="/image/logo.png"
@@ -91,7 +91,7 @@ const Tours = () => {
         bgmain=" #fafafa"
         bgimage=""
         //Imagen Props
-        image="/image/Kawasmy/25.jpg"
+        image="/image/ima/25.webp"
         //imonClick={() => window.location.href = "https://wa.me/50670453129"}
         //Titulo Props
         bimage="/image/logo.png"
@@ -126,7 +126,7 @@ const Tours = () => {
         bgmain=" #049439"
         bgimage=""
         //Imagen Props
-        image="/image/Kawasmy/26.jpg"
+        image="/image/ima/26.webp"
         //imonClick={() => window.location.href = "https://wa.me/50670453129"}
         //Titulo Props
         bimage="/image/logo.png"
@@ -161,7 +161,7 @@ const Tours = () => {
         bgmain=" #fafafa"
         bgimage=""
         //Imagen Props
-        image="/image/Kawasmy/39.jpg"
+        image="/image/ima/39.webp"
         //imonClick={() => window.location.href = "https://wa.me/50670453129"}
         //Titulo Props
         bimage="/image/logo.png"

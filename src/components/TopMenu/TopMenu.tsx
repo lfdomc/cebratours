@@ -49,7 +49,7 @@ function TopMenu() {
               src="/image/Redes/instagram.png"
               alt="instagram"
               onClick={() =>
-                window.open("https://www.instagram.com/", "_blank")
+                window.open("https://www.instagram.com/cebratourscr?igsh=c2h4aGgyeGtxdGFi", "_blank")
               }
             />
           </button>
@@ -57,7 +57,14 @@ function TopMenu() {
             <Img
               src="/image/Redes/fb.png"
               alt="facebook"
-              onClick={() => window.open("https://www.facebook.com/", "_blank")}
+              onClick={() => window.open("https://www.facebook.com/share/15FR4foyqs/", "_blank")}
+            />
+          </button>
+          <button>
+            <Img
+              src="/image/Redes/tiktok.svg"
+              alt="facebook"
+              onClick={() => window.open("https://www.tiktok.com/@cebratourscr?_t=ZM-8wA7wnbgSNa&_r=1", "_blank")}
             />
           </button>
         </SectionA>
