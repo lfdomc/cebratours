@@ -34,8 +34,8 @@ const SectionA = styled.section<{ $imgflexdirection?: string }>`
     padding-bottom: 10px;
 
     img {
-        max-width: 80%;
-        max-height: 50%;
+        max-width: 60%;
+        max-height: 40%;
         border-radius: 390px;
         padding-bottom: 20px;
     }
