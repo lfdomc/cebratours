@@ -93,7 +93,7 @@ const itemData: { img: string; title: string }[] = [
     title: 'Camera',
   },
   {
-    img: '/image/ima/20.webp',
+    img: '/image/ima/17.webp',
     title: 'Coffee',
   },
   {
