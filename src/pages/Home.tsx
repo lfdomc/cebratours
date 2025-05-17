@@ -49,7 +49,7 @@ const Home = () => {
         bgmain=" #fafafa"
         bgimage=""
         //Imagen Props
-        image="/image/ima/19.webp"
+        image="/image/ima/36.webp"
         //imonClick={() => window.location.href = "https://wa.me/50670453129"}
         //Titulo Props
         bimage="/image/logo.png"

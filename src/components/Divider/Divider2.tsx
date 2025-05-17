@@ -32,7 +32,7 @@ const Divider1 = () => {
                     title="PRIVATE TOUR"
                     parraf="You could explore new places on your own, but you'd miss a lot! Take a private tour
                      with me and learn how much you can add to your travel experience by exploring with a professional tour guide."
-                    image="/image/web.png"
+                    image="/image/ima/18.webp"
                 />
             </CardScrollContainer>
             
@@ -42,7 +42,7 @@ const Divider1 = () => {
                     parraf="If you're looking to explore something truly unique,but your group or family is 
                     very large, take my group tour. You will discover hidden gems, hear amazing stories and feel like 
                     a resident. Just sign up and let me take care of all the details."
-                    image="/image/correo.png"
+                    image="/image/ima/11.webp"
                 />
             </CardScrollContainer>
             
@@ -51,7 +51,7 @@ const Divider1 = () => {
                     title="PRIVATE FOR COUPLES "
                     parraf="If your idea of a perfect vacation is to move quickly to be able to take advantage of the time
                      , then look no further and choose  my PRIVATE FOR COUPLES. I'll take care of all the details, just come and have fun!"
-                    image="/image/hostin.png"
+                    image="/image/ima/4.webp"
                 />
             </CardScrollContainer>
             <CardScrollContainer>
@@ -60,7 +60,7 @@ const Divider1 = () => {
                     parraf="You could explore new places on your own, but the driver wouldn't enjoy it and would miss a lot
                      of things! Take advantage of our Professional Tourism Drivers services Remember that we can help with 
                      the rental process in different franchises , we wait for you at the airport with your approved vehicle ."
-                    image="/image/rediseno.png"
+                    image="/image/ima/24.webp"
                 />
             </CardScrollContainer>
             
@@ -69,7 +69,7 @@ const Divider1 = () => {
                     title="ENDLESS POSSIBILITIES"
                     parraf="If you're interested in improving your next trip with an exciting and engaging tour, look no further.
                      Check out my current tours and feel free to contact any questions I have about what I offer."
-                    image="/image/mant.png"
+                    image="/image/ima/25.webp"
                 />
             </CardScrollContainer>
             
