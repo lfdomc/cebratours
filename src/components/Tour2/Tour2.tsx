@@ -34,7 +34,7 @@ const SectionA = styled.section<{ $imgflexdirection?: string }>`
     padding-bottom: 10px;
 
     img {
-        max-width: 60%;
+        max-width: 80%;
         max-height: 40%;
         border-radius: 390px;
         padding-bottom: 20px;
@@ -54,7 +54,7 @@ const SectionA = styled.section<{ $imgflexdirection?: string }>`
     @media (max-width: 768px) {
         width: 100%;
         img {
-            max-width: 100%;
+            max-width: 90%;
         }
     }
 `;
