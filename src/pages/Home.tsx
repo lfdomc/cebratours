@@ -84,7 +84,7 @@ const Home = () => {
                     parraf="Your need to move around as you please in the own schedule is our reason for being and that is why we 
                     customize your excursions according to your needs, supported by our expert, We are from guanacaste and we want 
                     to show you the true Costa Rican culture."
-                    image="/image/api.png"
+                    image="/image/ima/44.webp"
                 />
             </CardScrollContainer>
       
