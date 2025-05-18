@@ -114,8 +114,8 @@ export const FormContact = () => {
 
     if (form.current) {
       emailjs
-        .sendForm('service_wb8w748', 'template_ea6wt54', form.current, {
-          publicKey: 'SkdAPtY2pwi__P33z',
+        .sendForm('service_mhdaqwd', 'template_6cay27d', form.current, {
+          publicKey: 'sWKi3SAdHx3x4rrq8',
         })
         .then(() => {
           notify();

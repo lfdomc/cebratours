@@ -56,7 +56,7 @@ const Tours = () => {
         bgmain=" #049439"
         bgimage=""
         //Imagen Props
-        image="/image/ima/28.webp"
+        image="/image/ima/43.webp"
         //imonClick={() => window.location.href = "https://wa.me/50670453129"}
         //Titulo Props
         bimage="/image/logo.png"

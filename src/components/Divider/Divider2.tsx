@@ -51,7 +51,7 @@ const Divider1 = () => {
                     title="PRIVATE FOR COUPLES "
                     parraf="If your idea of a perfect vacation is to move quickly to be able to take advantage of the time
                      , then look no further and choose  my PRIVATE FOR COUPLES. I'll take care of all the details, just come and have fun!"
-                    image="/image/ima/4.webp"
+                    image="/image/ima/41.webp"
                 />
             </CardScrollContainer>
             <CardScrollContainer>
